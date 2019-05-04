@@ -1,0 +1,76 @@
+#btn-1{
+    color:white;
+    background-color: red;
+    margin: 20px;
+    padding-left: 50px;
+    padding-right: 50px;
+    border: transparent;
+    height: 45px;
+}
+#btn-1:hover{
+    cursor:pointer;
+}
+#btn-2{
+    background-color:yellow ;
+    border-color:blue ;
+    color: blue;
+    margin: 20px;
+    padding-left: 50px;
+    padding-right: 50px;
+    height: 45px;
+    font-size: 20px;
+}
+#btn-2:hover{
+    cursor: pointer;
+}
+#btn-3{
+    color: white;
+    border-radius: 20px;
+    margin: 20px; 
+    width: 120px;
+    height: 40px;
+    background-image: linear-gradient(to right, #61d1ca , #a4d489);
+}
+#btn-3:hover{
+    cursor: pointer;
+    background-color: 
+}
+#btn-4{
+    background-color:transparent ;
+    border-color:#6749ea ;
+    color: #6749ea;
+    margin: 20px;
+    padding-left: 40px;
+    padding-right: 40px;
+    height: 45px;
+    font-size: 20px;
+    border-radius: 10px;
+}
+#btn-4:hover{
+    background-color: #6749ea;
+    color: white;
+   
+}
+#btn-5{
+    background-color:#f5a531;
+    color: white;
+    margin: 20px;
+    padding-left: 40px;
+    padding-right: 40px;
+    height: 45px;
+    font-size: 20px;
+}
+#btn-5P{
+    cursor: pointer;
+}
+#btn-6{
+    margin: 30px;
+    padding: 30px;
+    border-color: #37a1f3;
+    border-radius: 60px;
+    color: white;
+    background-color: #37a1f3;
+  }
+#btn-6:hover{
+    cursor: pointer;
+}
